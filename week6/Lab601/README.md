@@ -12,7 +12,7 @@ from the provided C# source code.
 3. Explain how to include "an asian herbivore and an asian carnivore" to the program: 
     We include new classes as an asian herbivore and an asian carnivore that relate with herbivore and carnivore classes like AmericanFactory and AfricaFactory classes.
   - Show the class diagram of the program after including the new requirment.
-  - [asianFactory](http://www.uppic.com/uploads/14446530751.png)
+  - ![asianFactory](http://www.uppic.com/uploads/14446530751.png)
   - Test the new requirment by modifying the main function and show the result.
   - ![result](http://www.uppic.com/uploads/14446530752.jpg)
   - Show the main function and snippet of C# code that is related to the process.
